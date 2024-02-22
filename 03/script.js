@@ -14,3 +14,7 @@ alert("A subtração é: " + sub)
 alert("A multiplicação é: " + mult)
 alert("A divisão é: " + div)
 alert("O resto é: " + restDiv)
+
+if(sum / 2 == 0){
+    alert("A soma dois dois números são par: " + sum )
+}
