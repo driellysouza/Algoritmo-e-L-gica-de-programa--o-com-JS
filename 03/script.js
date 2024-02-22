@@ -15,6 +15,15 @@ alert("A multiplicação é: " + mult)
 alert("A divisão é: " + div)
 alert("O resto é: " + restDiv)
 
-if(sum / 2 == 0){
+if(sum % 2 == 0){
     alert("A soma dois dois números são par: " + sum )
+
+}else{
+    alert("A soma soma dos dois numeros é ímpar:  " + sum)
+}
+if(n1 == n2){
+    alert("Os dois números são iguais")
+}
+else{
+    alert("Os dois números são diferentes")
 }
